@@ -1,0 +1,1 @@
+/opt/gcc-4.9.2/bin/g++   -fopenmp -Wl,-rpath -Wl,/opt/openmpi-1.8.3/lib -Wl,--enable-new-dtags   CMakeFiles/BlackjackEngine.dir/fann_float_source.cpp.o CMakeFiles/BlackjackEngine.dir/main.cpp.o  -o BlackjackEngine -Wl,-rpath,/opt/openmpi-1.8.3/lib /opt/openmpi-1.8.3/lib/libmpi_cxx.so /opt/openmpi-1.8.3/lib/libmpi.so 

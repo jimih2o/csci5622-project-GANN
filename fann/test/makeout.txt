@@ -1,0 +1,2 @@
+[ 33%] Linking CXX executable Test
+[100%] Built target Test
